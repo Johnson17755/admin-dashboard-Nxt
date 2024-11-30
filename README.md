@@ -1,5 +1,16 @@
 ## Next.js App Router Course - Starter
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+Deploy  project first.
+git status 
+git add .
+git commit -m'comment'
+copy everything on repository.
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+create a progressql database.
+go to storage -create database postgres.
+follow the instruction.
+go to connect
+env.local 
+
+install the dependency.
+npm i @vercel/postgres

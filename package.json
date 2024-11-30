@@ -3,6 +3,7 @@
   "scripts": {
     "build": "next build",
     "dev": "next dev --turbo",
+    "seed": "node -r dotenv/config ./seed/route.tsx",
     "start": "next start"
   },
   "dependencies": {
