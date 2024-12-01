@@ -23,6 +23,7 @@ const links = [
 
 export default function NavLinks() {
   const pathname = usePathname(); //to show active link
+  
   return (
     <>
       {links.map((link) => {
